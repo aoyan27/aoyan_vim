@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/amsl/ros_catkin_ws/src/human_tracking/visualization_tools/include/visualization_tools/velocity_arrow_array'
+let g:netrw_dirhist_2='/home/amsl/ros_catkin_ws/src/my_pcl_tutorial'
